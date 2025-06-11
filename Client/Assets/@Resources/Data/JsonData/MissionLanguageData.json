@@ -1,0 +1,844 @@
+{
+  "missionLanguageDatas": [
+    {
+      "Id": 160001,
+      "KrTitle": "2레벨을 준비하며...",
+      "KrExplanation": "최고 기록 50 달성 ",
+      "EnTitle": "Preparing for Level 2...",
+      "EnExplanation": "Highest Score 50 Achieved"
+    },
+    {
+      "Id": 160002,
+      "KrTitle": "3레벨을 준비하며...",
+      "KrExplanation": "최고 기록 100 달성 ",
+      "EnTitle": "Preparing for Level 3...",
+      "EnExplanation": "Highest Score 100 Achieved"
+    },
+    {
+      "Id": 160003,
+      "KrTitle": "4레벨을 준비하며...",
+      "KrExplanation": "돌 200개 피하기",
+      "EnTitle": "Preparing for Level 4...",
+      "EnExplanation": "Avoid 200 Stones"
+    },
+    {
+      "Id": 160004,
+      "KrTitle": "5레벨을 준비하며...",
+      "KrExplanation": "누적 플레이 시간 30분",
+      "EnTitle": "Preparing for Level 5...",
+      "EnExplanation": "Total Play Time 30 Minutes"
+    },
+    {
+      "Id": 160005,
+      "KrTitle": "6레벨을 준비하며...",
+      "KrExplanation": "최고 기록 150 달성 ",
+      "EnTitle": "Preparing for Level 6...",
+      "EnExplanation": "Highest Score 150 Achieved"
+    },
+    {
+      "Id": 160006,
+      "KrTitle": "7레벨을 준비하며...",
+      "KrExplanation": "누적 플레이 시간 1시간",
+      "EnTitle": "Preparing for Level 7...",
+      "EnExplanation": "Total Play Time 1 Hour"
+    },
+    {
+      "Id": 160007,
+      "KrTitle": "7레벨을 준비하며...",
+      "KrExplanation": "10단계까지 살아남기",
+      "EnTitle": "Preparing for Level 7...",
+      "EnExplanation": "Survive up to 10 Levels"
+    },
+    {
+      "Id": 160008,
+      "KrTitle": "8레벨을 준비하며...",
+      "KrExplanation": "누적 플레이 시간 1시간 30분",
+      "EnTitle": "Preparing for Level 8...",
+      "EnExplanation": "Total Play Time 1 Hour 30 Minutes"
+    },
+    {
+      "Id": 160009,
+      "KrTitle": "9레벨을 준비하며...",
+      "KrExplanation": "최고 기록 200 달성 ",
+      "EnTitle": "Preparing for Level 9...",
+      "EnExplanation": "Highest Score 200 Achieved"
+    },
+    {
+      "Id": 160010,
+      "KrTitle": "9레벨을 준비하며...",
+      "KrExplanation": "돌 400개 피하기",
+      "EnTitle": "Preparing for Level 9...",
+      "EnExplanation": "Avoid 400 Stones"
+    },
+    {
+      "Id": 160011,
+      "KrTitle": "10레벨을 준비하며...",
+      "KrExplanation": "누적 플레이 시간 2시간",
+      "EnTitle": "Preparing for Level 10...",
+      "EnExplanation": "Total Play Time 2 Hours"
+    },
+    {
+      "Id": 160012,
+      "KrTitle": "11레벨을 준비하며...",
+      "KrExplanation": "최고 기록 350 달성 ",
+      "EnTitle": "Preparing for Level 11...",
+      "EnExplanation": "Highest Score 350 Achieved"
+    },
+    {
+      "Id": 160013,
+      "KrTitle": "11레벨을 준비하며...",
+      "KrExplanation": "15단계까지 살아남기",
+      "EnTitle": "Preparing for Level 11...",
+      "EnExplanation": "Survive up to 15 Levels"
+    },
+    {
+      "Id": 160014,
+      "KrTitle": "12레벨을 준비하며...",
+      "KrExplanation": "최고 기록 450 달성 ",
+      "EnTitle": "Preparing for Level 12...",
+      "EnExplanation": "Highest Score 450 Achieved"
+    },
+    {
+      "Id": 160015,
+      "KrTitle": "13레벨을 준비하며...",
+      "KrExplanation": "돌 800개 피하기",
+      "EnTitle": "Preparing for Level 13...",
+      "EnExplanation": "Avoid 800 Stones"
+    },
+    {
+      "Id": 160016,
+      "KrTitle": "14레벨을 준비하며...",
+      "KrExplanation": "누적 플레이 시간 2시간 30분",
+      "EnTitle": "Preparing for Level 14...",
+      "EnExplanation": "Total Play Time 2 Hours 30 Minutes"
+    },
+    {
+      "Id": 160017,
+      "KrTitle": "15레벨을 준비하며...",
+      "KrExplanation": "최고 기록 500 달성 ",
+      "EnTitle": "Preparing for Level 15...",
+      "EnExplanation": "Highest Score 500 Achieved"
+    },
+    {
+      "Id": 160018,
+      "KrTitle": "15레벨을 준비하며...",
+      "KrExplanation": "누적 플레이 시간 3시간",
+      "EnTitle": "Preparing for Level 15...",
+      "EnExplanation": "Total Play Time 3 Hours"
+    },
+    {
+      "Id": 160019,
+      "KrTitle": "16레벨을 준비하며...",
+      "KrExplanation": "24단계까지 살아남기",
+      "EnTitle": "Preparing for Level 16...",
+      "EnExplanation": "Survive up to 24 Levels"
+    },
+    {
+      "Id": 160020,
+      "KrTitle": "17레벨을 준비하며...",
+      "KrExplanation": "최고 기록 600 달성 ",
+      "EnTitle": "Preparing for Level 17...",
+      "EnExplanation": "Highest Score 600 Achieved"
+    },
+    {
+      "Id": 160021,
+      "KrTitle": "18레벨을 준비하며...",
+      "KrExplanation": "최고 기록 700 달성 ",
+      "EnTitle": "Preparing for Level 18...",
+      "EnExplanation": "Highest Score 700 Achieved"
+    },
+    {
+      "Id": 160022,
+      "KrTitle": "19레벨을 준비하며...",
+      "KrExplanation": "최고 기록 800 달성 ",
+      "EnTitle": "Preparing for Level 19...",
+      "EnExplanation": "Highest Score 800 Achieved"
+    },
+    {
+      "Id": 160023,
+      "KrTitle": "20레벨을 준비하며...",
+      "KrExplanation": "누적 플레이 시간 5시간",
+      "EnTitle": "Preparing for Level 20...",
+      "EnExplanation": "Total Play Time 5 Hours"
+    },
+    {
+      "Id": 160024,
+      "KrTitle": "20레벨을 준비하며...",
+      "KrExplanation": "돌 1000개 피하기",
+      "EnTitle": "Preparing for Level 20...",
+      "EnExplanation": "Avoid 1000 Stones"
+    },
+    {
+      "Id": 160025,
+      "KrTitle": "21레벨을 준비하며...",
+      "KrExplanation": "최고 기록 900 달성 ",
+      "EnTitle": "Preparing for Level 21...",
+      "EnExplanation": "Highest Score 900 Achieved"
+    },
+    {
+      "Id": 160026,
+      "KrTitle": "22레벨을 준비하며...",
+      "KrExplanation": "최고 기록 1000 달성 ",
+      "EnTitle": "Preparing for Level 22...",
+      "EnExplanation": "Highest Score 1000 Achieved"
+    },
+    {
+      "Id": 160027,
+      "KrTitle": "23레벨을 준비하며...",
+      "KrExplanation": "최고 기록 1100 달성 ",
+      "EnTitle": "Preparing for Level 23...",
+      "EnExplanation": "Highest Score 1100 Achieved"
+    },
+    {
+      "Id": 160028,
+      "KrTitle": "24레벨을 준비하며...",
+      "KrExplanation": "누적 플레이 시간 7시간",
+      "EnTitle": "Preparing for Level 24...",
+      "EnExplanation": "Total Play Time 7 Hours"
+    },
+    {
+      "Id": 160029,
+      "KrTitle": "24레벨을 준비하며...",
+      "KrExplanation": "최고 기록 1400 달성 ",
+      "EnTitle": "Preparing for Level 24...",
+      "EnExplanation": "Highest Score 1400 Achieved"
+    },
+    {
+      "Id": 160030,
+      "KrTitle": "25레벨을 준비하며...",
+      "KrExplanation": "최고 기록 1600 달성 ",
+      "EnTitle": "Preparing for Level 25...",
+      "EnExplanation": "Highest Score 1600 Achieved"
+    },
+    {
+      "Id": 160031,
+      "KrTitle": "26레벨을 준비하며...",
+      "KrExplanation": "최고 기록 1800 달성 ",
+      "EnTitle": "Preparing for Level 26...",
+      "EnExplanation": "Highest Score 1800 Achieved"
+    },
+    {
+      "Id": 160032,
+      "KrTitle": "27레벨을 준비하며...",
+      "KrExplanation": "돌 1500개 피하기",
+      "EnTitle": "Preparing for Level 27...",
+      "EnExplanation": "Avoid 1500 Stones"
+    },
+    {
+      "Id": 160033,
+      "KrTitle": "28레벨을 준비하며...",
+      "KrExplanation": "누적 플레이 시간 9시간",
+      "EnTitle": "Preparing for Level 28...",
+      "EnExplanation": "Total Play Time 9 Hours"
+    },
+    {
+      "Id": 160034,
+      "KrTitle": "28레벨을 준비하며...",
+      "KrExplanation": "최고 기록 2000 달성 ",
+      "EnTitle": "Preparing for Level 28...",
+      "EnExplanation": "Highest Score 2000 Achieved"
+    },
+    {
+      "Id": 160035,
+      "KrTitle": "29레벨을 준비하며...",
+      "KrExplanation": "최고 기록 2100 달성 ",
+      "EnTitle": "Preparing for Level 29...",
+      "EnExplanation": "Highest Score 2100 Achieved"
+    },
+    {
+      "Id": 160036,
+      "KrTitle": "30레벨을 준비하며...",
+      "KrExplanation": "누적 플레이 시간 11시간",
+      "EnTitle": "Preparing for Level 30...",
+      "EnExplanation": "Total Play Time 11 Hours"
+    },
+    {
+      "Id": 160037,
+      "KrTitle": "30레벨을 준비하며...",
+      "KrExplanation": "최고 기록 2400 달성 ",
+      "EnTitle": "Preparing for Level 30...",
+      "EnExplanation": "Highest Score 2400 Achieved"
+    },
+    {
+      "Id": 160038,
+      "KrTitle": "31레벨을 준비하며...",
+      "KrExplanation": "최고 기록 2600 달성 ",
+      "EnTitle": "Preparing for Level 31...",
+      "EnExplanation": "Highest Score 2600 Achieved"
+    },
+    {
+      "Id": 160039,
+      "KrTitle": "32레벨을 준비하며...",
+      "KrExplanation": "돌 2000개 피하기",
+      "EnTitle": "Preparing for Level 32...",
+      "EnExplanation": "Avoid 2000 Stones"
+    },
+    {
+      "Id": 160040,
+      "KrTitle": "33레벨을 준비하며...",
+      "KrExplanation": "최고 기록 2800 달성 ",
+      "EnTitle": "Preparing for Level 33...",
+      "EnExplanation": "Highest Score 2800 Achieved"
+    },
+    {
+      "Id": 160041,
+      "KrTitle": "34레벨을 준비하며...",
+      "KrExplanation": "누적 플레이 시간 13시간",
+      "EnTitle": "Preparing for Level 34...",
+      "EnExplanation": "Total Play Time 13 Hours"
+    },
+    {
+      "Id": 160042,
+      "KrTitle": "34레벨을 준비하며...",
+      "KrExplanation": "최고 기록 3000 달성 ",
+      "EnTitle": "Preparing for Level 34...",
+      "EnExplanation": "Highest Score 3000 Achieved"
+    },
+    {
+      "Id": 160043,
+      "KrTitle": "35레벨을 준비하며...",
+      "KrExplanation": "최고 기록 3100 달성 ",
+      "EnTitle": "Preparing for Level 35...",
+      "EnExplanation": "Highest Score 3100 Achieved"
+    },
+    {
+      "Id": 160044,
+      "KrTitle": "36레벨을 준비하며...",
+      "KrExplanation": "최고 기록 3200 달성 ",
+      "EnTitle": "Preparing for Level 36...",
+      "EnExplanation": "Highest Score 3200 Achieved"
+    },
+    {
+      "Id": 160045,
+      "KrTitle": "37레벨을 준비하며...",
+      "KrExplanation": "누적 플레이 시간 15시간",
+      "EnTitle": "Preparing for Level 37...",
+      "EnExplanation": "Total Play Time 15 Hours"
+    },
+    {
+      "Id": 160046,
+      "KrTitle": "37레벨을 준비하며...",
+      "KrExplanation": "최고 기록 3400 달성 ",
+      "EnTitle": "Preparing for Level 37...",
+      "EnExplanation": "Highest Score 3400 Achieved"
+    },
+    {
+      "Id": 160047,
+      "KrTitle": "38레벨을 준비하며...",
+      "KrExplanation": "최고 기록 3500 달성 ",
+      "EnTitle": "Preparing for Level 38...",
+      "EnExplanation": "Highest Score 3500 Achieved"
+    },
+    {
+      "Id": 160048,
+      "KrTitle": "39레벨을 준비하며...",
+      "KrExplanation": "돌 2500개 피하기",
+      "EnTitle": "Preparing for Level 39...",
+      "EnExplanation": "Avoid 2500 Stones"
+    },
+    {
+      "Id": 160049,
+      "KrTitle": "40레벨을 준비하며...",
+      "KrExplanation": "누적 플레이 시간 17시간",
+      "EnTitle": "Preparing for Level 40...",
+      "EnExplanation": "Total Play Time 17 Hours"
+    },
+    {
+      "Id": 160050,
+      "KrTitle": "40레벨을 준비하며...",
+      "KrExplanation": "최고 기록 3700 달성 ",
+      "EnTitle": "Preparing for Level 40...",
+      "EnExplanation": "Highest Score 3700 Achieved"
+    },
+    {
+      "Id": 160051,
+      "KrTitle": "41레벨을 준비하며...",
+      "KrExplanation": "최고 기록 3800 달성 ",
+      "EnTitle": "Preparing for Level 41...",
+      "EnExplanation": "Highest Score 3800 Achieved"
+    },
+    {
+      "Id": 160052,
+      "KrTitle": "42레벨을 준비하며...",
+      "KrExplanation": "누적 플레이 시간 19시간",
+      "EnTitle": "Preparing for Level 42...",
+      "EnExplanation": "Total Play Time 19 Hours"
+    },
+    {
+      "Id": 160053,
+      "KrTitle": "42레벨을 준비하며...",
+      "KrExplanation": "최고 기록 3900 달성 ",
+      "EnTitle": "Preparing for Level 42...",
+      "EnExplanation": "Highest Score 3900 Achieved"
+    },
+    {
+      "Id": 160054,
+      "KrTitle": "43레벨을 준비하며...",
+      "KrExplanation": "최고 기록 4000 달성 ",
+      "EnTitle": "Preparing for Level 43...",
+      "EnExplanation": "Highest Score 4000 Achieved"
+    },
+    {
+      "Id": 160055,
+      "KrTitle": "44레벨을 준비하며...",
+      "KrExplanation": "누적 플레이 시간 21시간",
+      "EnTitle": "Preparing for Level 44...",
+      "EnExplanation": "Total Play Time 21 Hours"
+    },
+    {
+      "Id": 160056,
+      "KrTitle": "44레벨을 준비하며...",
+      "KrExplanation": "최고 기록 4200 달성 ",
+      "EnTitle": "Preparing for Level 44...",
+      "EnExplanation": "Highest Score 4200 Achieved"
+    },
+    {
+      "Id": 160057,
+      "KrTitle": "45레벨을 준비하며...",
+      "KrExplanation": "돌 3000개 피하기",
+      "EnTitle": "Preparing for Level 45...",
+      "EnExplanation": "Avoid 3000 Stones"
+    },
+    {
+      "Id": 160058,
+      "KrTitle": "46레벨을 준비하며...",
+      "KrExplanation": "최고 기록 100000 달성",
+      "EnTitle": "Preparing for Level 46...",
+      "EnExplanation": "Highest Score 100000 Achieved"
+    },
+    {
+      "Id": 160059,
+      "KrTitle": "46레벨을 준비하며...",
+      "KrExplanation": "누적 플레이 시간 100시간",
+      "EnTitle": "Preparing for Level 46...",
+      "EnExplanation": "Total Play Time 100 Hours"
+    },
+    {
+      "Id": 160060,
+      "KrTitle": "캐릭터를 꾸며보자!",
+      "KrExplanation": "캐릭터 스타일 1번 변경하기.",
+      "EnTitle": "Let's decorate the character!",
+      "EnExplanation": "Change Character Style 1."
+    },
+    {
+      "Id": 160061,
+      "KrTitle": "더 나은 내가..",
+      "KrExplanation": "진화 세트 1레벨 달성하기.",
+      "EnTitle": "Upgrading to Awesome Me!",
+      "EnExplanation": "Achieve Evolution Set Level 1."
+    },
+    {
+      "Id": 160062,
+      "KrTitle": "더 나은 내가..",
+      "KrExplanation": "진화 세트 2레벨 달성하기.",
+      "EnTitle": "Upgrading to Awesome Me!",
+      "EnExplanation": "Achieve Evolution Set Level 2."
+    },
+    {
+      "Id": 160063,
+      "KrTitle": "더 나은 내가..",
+      "KrExplanation": "진화 세트 3레벨 달성하기.",
+      "EnTitle": "Upgrading to Awesome Me!",
+      "EnExplanation": "Achieve Evolution Set Level 3."
+    },
+    {
+      "Id": 160064,
+      "KrTitle": "더 나은 내가..",
+      "KrExplanation": "진화 세트 4레벨 달성하기.",
+      "EnTitle": "Upgrading to Awesome Me!",
+      "EnExplanation": "Achieve Evolution Set Level 4."
+    },
+    {
+      "Id": 160065,
+      "KrTitle": "더 나은 내가..",
+      "KrExplanation": "진화 세트 5레벨 달성하기.",
+      "EnTitle": "Upgrading to Awesome Me!",
+      "EnExplanation": "Achieve Evolution Set Level 5."
+    },
+    {
+      "Id": 160066,
+      "KrTitle": "캐릭터를 꾸며보자!",
+      "KrExplanation": "캐릭터 스타일 1번 변경하기.",
+      "EnTitle": "Let's decorate the character!",
+      "EnExplanation": "Change Character Style 1."
+    },
+    {
+      "Id": 160067,
+      "KrTitle": "더 나은 내가..",
+      "KrExplanation": "진화 세트 6레벨 달성하기.",
+      "EnTitle": "Upgrading to Awesome Me!",
+      "EnExplanation": "Achieve Evolution Set Level 6."
+    },
+    {
+      "Id": 160068,
+      "KrTitle": "더 나은 내가..",
+      "KrExplanation": "진화 세트 7레벨 달성하기.",
+      "EnTitle": "Upgrading to Awesome Me!",
+      "EnExplanation": "Achieve Evolution Set Level 7."
+    },
+    {
+      "Id": 160069,
+      "KrTitle": "더 나은 내가..",
+      "KrExplanation": "진화 세트 8레벨 달성하기.",
+      "EnTitle": "Upgrading to Awesome Me!",
+      "EnExplanation": "Achieve Evolution Set Level 8."
+    },
+    {
+      "Id": 160070,
+      "KrTitle": "더 나은 내가..",
+      "KrExplanation": "진화 세트 9레벨 달성하기.",
+      "EnTitle": "Upgrading to Awesome Me!",
+      "EnExplanation": "Achieve Evolution Set Level 9."
+    },
+    {
+      "Id": 160071,
+      "KrTitle": "더 나은 내가..",
+      "KrExplanation": "진화 세트 10레벨 달성하기.",
+      "EnTitle": "Upgrading to Awesome Me!",
+      "EnExplanation": "Achieve Evolution Set Level 10."
+    },
+    {
+      "Id": 160072,
+      "KrTitle": "캐릭터를 꾸며보자!",
+      "KrExplanation": "캐릭터 스타일 1번 변경하기.",
+      "EnTitle": "Let's decorate the character!",
+      "EnExplanation": "Change Character Style 1."
+    },
+    {
+      "Id": 160073,
+      "KrTitle": "더 나은 내가..",
+      "KrExplanation": "진화 세트 11레벨 달성하기.",
+      "EnTitle": "Upgrading to Awesome Me!",
+      "EnExplanation": "Achieve Evolution Set Level 11."
+    },
+    {
+      "Id": 160074,
+      "KrTitle": "더 나은 내가..",
+      "KrExplanation": "진화 세트 12레벨 달성하기.",
+      "EnTitle": "Upgrading to Awesome Me!",
+      "EnExplanation": "Achieve Evolution Set Level 12."
+    },
+    {
+      "Id": 160075,
+      "KrTitle": "더 나은 내가..",
+      "KrExplanation": "진화 세트 13레벨 달성하기.",
+      "EnTitle": "Upgrading to Awesome Me!",
+      "EnExplanation": "Achieve Evolution Set Level 13."
+    },
+    {
+      "Id": 160076,
+      "KrTitle": "더 나은 내가..",
+      "KrExplanation": "진화 세트 14레벨 달성하기.",
+      "EnTitle": "Upgrading to Awesome Me!",
+      "EnExplanation": "Achieve Evolution Set Level 14."
+    },
+    {
+      "Id": 160077,
+      "KrTitle": "더 나은 내가..",
+      "KrExplanation": "진화 세트 15레벨 달성하기.",
+      "EnTitle": "Upgrading to Awesome Me!",
+      "EnExplanation": "Achieve Evolution Set Level 15."
+    },
+    {
+      "Id": 160078,
+      "KrTitle": "캐릭터를 꾸며보자!",
+      "KrExplanation": "캐릭터 스타일 1번 변경하기.",
+      "EnTitle": "Let's decorate the character!",
+      "EnExplanation": "Change Character Style 1."
+    },
+    {
+      "Id": 160079,
+      "KrTitle": "더 나은 내가..",
+      "KrExplanation": "진화 세트 16레벨 달성하기.",
+      "EnTitle": "Upgrading to Awesome Me!",
+      "EnExplanation": "Achieve Evolution Set Level 16."
+    },
+    {
+      "Id": 160080,
+      "KrTitle": "더 나은 내가..",
+      "KrExplanation": "진화 세트 17레벨 달성하기.",
+      "EnTitle": "Upgrading to Awesome Me!",
+      "EnExplanation": "Achieve Evolution Set Level 17."
+    },
+    {
+      "Id": 160081,
+      "KrTitle": "더 나은 내가..",
+      "KrExplanation": "진화 세트 18레벨 달성하기.",
+      "EnTitle": "Upgrading to Awesome Me!",
+      "EnExplanation": "Achieve Evolution Set Level 18."
+    },
+    {
+      "Id": 160082,
+      "KrTitle": "더 나은 내가..",
+      "KrExplanation": "진화 세트 19레벨 달성하기.",
+      "EnTitle": "Upgrading to Awesome Me!",
+      "EnExplanation": "Achieve Evolution Set Level 19."
+    },
+    {
+      "Id": 160083,
+      "KrTitle": "더 나은 내가..",
+      "KrExplanation": "진화 세트 20레벨 달성하기.",
+      "EnTitle": "Upgrading to Awesome Me!",
+      "EnExplanation": "Achieve Evolution Set Level 20."
+    },
+    {
+      "Id": 160084,
+      "KrTitle": "캐릭터를 꾸며보자!",
+      "KrExplanation": "캐릭터 스타일 1번 변경하기.",
+      "EnTitle": "Let's decorate the character!",
+      "EnExplanation": "Change Character Style 1."
+    },
+    {
+      "Id": 160085,
+      "KrTitle": "더 나은 내가..",
+      "KrExplanation": "진화 세트 21레벨 달성하기.",
+      "EnTitle": "Upgrading to Awesome Me!",
+      "EnExplanation": "Achieve Evolution Set Level 21."
+    },
+    {
+      "Id": 160086,
+      "KrTitle": "더 나은 내가..",
+      "KrExplanation": "진화 세트 22레벨 달성하기.",
+      "EnTitle": "Upgrading to Awesome Me!",
+      "EnExplanation": "Achieve Evolution Set Level 22."
+    },
+    {
+      "Id": 160087,
+      "KrTitle": "더 나은 내가..",
+      "KrExplanation": "진화 세트 23레벨 달성하기.",
+      "EnTitle": "Upgrading to Awesome Me!",
+      "EnExplanation": "Achieve Evolution Set Level 23."
+    },
+    {
+      "Id": 160088,
+      "KrTitle": "더 나은 내가..",
+      "KrExplanation": "진화 세트 24레벨 달성하기.",
+      "EnTitle": "Upgrading to Awesome Me!",
+      "EnExplanation": "Achieve Evolution Set Level 24."
+    },
+    {
+      "Id": 160089,
+      "KrTitle": "더 나은 내가..",
+      "KrExplanation": "진화 세트 25레벨 달성하기.",
+      "EnTitle": "Upgrading to Awesome Me!",
+      "EnExplanation": "Achieve Evolution Set Level 25."
+    },
+    {
+      "Id": 160090,
+      "KrTitle": "캐릭터를 꾸며보자!",
+      "KrExplanation": "캐릭터 스타일 1번 변경하기.",
+      "EnTitle": "Let's decorate the character!",
+      "EnExplanation": "Change Character Style 1."
+    },
+    {
+      "Id": 160091,
+      "KrTitle": "더 나은 내가..",
+      "KrExplanation": "진화 세트 26레벨 달성하기.",
+      "EnTitle": "Upgrading to Awesome Me!",
+      "EnExplanation": "Achieve Evolution Set Level 26."
+    },
+    {
+      "Id": 160092,
+      "KrTitle": "더 나은 내가..",
+      "KrExplanation": "진화 세트 27레벨 달성하기.",
+      "EnTitle": "Upgrading to Awesome Me!",
+      "EnExplanation": "Achieve Evolution Set Level 27."
+    },
+    {
+      "Id": 160093,
+      "KrTitle": "더 나은 내가..",
+      "KrExplanation": "진화 세트 28레벨 달성하기.",
+      "EnTitle": "Upgrading to Awesome Me!",
+      "EnExplanation": "Achieve Evolution Set Level 28."
+    },
+    {
+      "Id": 160094,
+      "KrTitle": "더 나은 내가..",
+      "KrExplanation": "진화 세트 29레벨 달성하기.",
+      "EnTitle": "Upgrading to Awesome Me!",
+      "EnExplanation": "Achieve Evolution Set Level 29."
+    },
+    {
+      "Id": 160095,
+      "KrTitle": "더 나은 내가..",
+      "KrExplanation": "진화 세트 30레벨 달성하기.",
+      "EnTitle": "Upgrading to Awesome Me!",
+      "EnExplanation": "Achieve Evolution Set Level 30."
+    },
+    {
+      "Id": 160096,
+      "KrTitle": "캐릭터를 꾸며보자!",
+      "KrExplanation": "캐릭터 스타일 1번 변경하기.",
+      "EnTitle": "Let's decorate the character!",
+      "EnExplanation": "Change Character Style 1."
+    },
+    {
+      "Id": 160097,
+      "KrTitle": "더 나은 내가..",
+      "KrExplanation": "진화 세트 31레벨 달성하기.",
+      "EnTitle": "Upgrading to Awesome Me!",
+      "EnExplanation": "Achieve Evolution Set Level 31."
+    },
+    {
+      "Id": 160098,
+      "KrTitle": "더 나은 내가..",
+      "KrExplanation": "진화 세트 32레벨 달성하기.",
+      "EnTitle": "Upgrading to Awesome Me!",
+      "EnExplanation": "Achieve Evolution Set Level 32."
+    },
+    {
+      "Id": 160099,
+      "KrTitle": "더 나은 내가..",
+      "KrExplanation": "진화 세트 33레벨 달성하기.",
+      "EnTitle": "Upgrading to Awesome Me!",
+      "EnExplanation": "Achieve Evolution Set Level 33."
+    },
+    {
+      "Id": 160100,
+      "KrTitle": "더 나은 내가..",
+      "KrExplanation": "진화 세트 34레벨 달성하기.",
+      "EnTitle": "Upgrading to Awesome Me!",
+      "EnExplanation": "Achieve Evolution Set Level 34."
+    },
+    {
+      "Id": 160101,
+      "KrTitle": "더 나은 내가..",
+      "KrExplanation": "진화 세트 35레벨 달성하기.",
+      "EnTitle": "Upgrading to Awesome Me!",
+      "EnExplanation": "Achieve Evolution Set Level 35."
+    },
+    {
+      "Id": 160102,
+      "KrTitle": "캐릭터를 꾸며보자!",
+      "KrExplanation": "캐릭터 스타일 1번 변경하기.",
+      "EnTitle": "Let's decorate the character!",
+      "EnExplanation": "Change Character Style 1."
+    },
+    {
+      "Id": 160103,
+      "KrTitle": "더 나은 내가..",
+      "KrExplanation": "진화 세트 36레벨 달성하기.",
+      "EnTitle": "Upgrading to Awesome Me!",
+      "EnExplanation": "Achieve Evolution Set Level 36."
+    },
+    {
+      "Id": 160104,
+      "KrTitle": "더 나은 내가..",
+      "KrExplanation": "진화 세트 37레벨 달성하기.",
+      "EnTitle": "Upgrading to Awesome Me!",
+      "EnExplanation": "Achieve Evolution Set Level 37."
+    },
+    {
+      "Id": 160105,
+      "KrTitle": "더 나은 내가..",
+      "KrExplanation": "진화 세트 38레벨 달성하기.",
+      "EnTitle": "Upgrading to Awesome Me!",
+      "EnExplanation": "Achieve Evolution Set Level 38."
+    },
+    {
+      "Id": 160106,
+      "KrTitle": "더 나은 내가..",
+      "KrExplanation": "진화 세트 39레벨 달성하기.",
+      "EnTitle": "Upgrading to Awesome Me!",
+      "EnExplanation": "Achieve Evolution Set Level 39."
+    },
+    {
+      "Id": 160107,
+      "KrTitle": "더 나은 내가..",
+      "KrExplanation": "진화 세트 40레벨 달성하기.",
+      "EnTitle": "Upgrading to Awesome Me!",
+      "EnExplanation": "Achieve Evolution Set Level 40."
+    },
+    {
+      "Id": 160108,
+      "KrTitle": "캐릭터를 꾸며보자!",
+      "KrExplanation": "캐릭터 스타일 1번 변경하기.",
+      "EnTitle": "Let's decorate the character!",
+      "EnExplanation": "Change Character Style 1."
+    },
+    {
+      "Id": 160109,
+      "KrTitle": "더 나은 내가..",
+      "KrExplanation": "진화 세트 41레벨 달성하기.",
+      "EnTitle": "Upgrading to Awesome Me!",
+      "EnExplanation": "Achieve Evolution Set Level 41."
+    },
+    {
+      "Id": 160110,
+      "KrTitle": "더 나은 내가..",
+      "KrExplanation": "진화 세트 42레벨 달성하기.",
+      "EnTitle": "Upgrading to Awesome Me!",
+      "EnExplanation": "Achieve Evolution Set Level 42."
+    },
+    {
+      "Id": 160111,
+      "KrTitle": "더 나은 내가..",
+      "KrExplanation": "진화 세트 43레벨 달성하기.",
+      "EnTitle": "Upgrading to Awesome Me!",
+      "EnExplanation": "Achieve Evolution Set Level 43."
+    },
+    {
+      "Id": 160112,
+      "KrTitle": "더 나은 내가..",
+      "KrExplanation": "진화 세트 44레벨 달성하기.",
+      "EnTitle": "Upgrading to Awesome Me!",
+      "EnExplanation": "Achieve Evolution Set Level 44."
+    },
+    {
+      "Id": 160113,
+      "KrTitle": "더 나은 내가..",
+      "KrExplanation": "진화 세트 45레벨 달성하기.",
+      "EnTitle": "Upgrading to Awesome Me!",
+      "EnExplanation": "Achieve Evolution Set Level 45."
+    },
+    {
+      "Id": 160114,
+      "KrTitle": "캐릭터를 꾸며보자!",
+      "KrExplanation": "캐릭터 스타일 1번 변경하기.",
+      "EnTitle": "Let's decorate the character!",
+      "EnExplanation": "Change Character Style 1."
+    },
+    {
+      "Id": 160115,
+      "KrTitle": "더 나은 내가..",
+      "KrExplanation": "진화 세트 46레벨 달성하기.",
+      "EnTitle": "Upgrading to Awesome Me!",
+      "EnExplanation": "Achieve Evolution Set Level 46."
+    },
+    {
+      "Id": 160116,
+      "KrTitle": "더 나은 내가..",
+      "KrExplanation": "진화 세트 47레벨 달성하기.",
+      "EnTitle": "Upgrading to Awesome Me!",
+      "EnExplanation": "Achieve Evolution Set Level 47."
+    },
+    {
+      "Id": 160117,
+      "KrTitle": "더 나은 내가..",
+      "KrExplanation": "진화 세트 48레벨 달성하기.",
+      "EnTitle": "Upgrading to Awesome Me!",
+      "EnExplanation": "Achieve Evolution Set Level 48."
+    },
+    {
+      "Id": 160118,
+      "KrTitle": "더 나은 내가..",
+      "KrExplanation": "진화 세트 49레벨 달성하기.",
+      "EnTitle": "Upgrading to Awesome Me!",
+      "EnExplanation": "Achieve Evolution Set Level 49."
+    },
+    {
+      "Id": 160119,
+      "KrTitle": "더 나은 내가..",
+      "KrExplanation": "진화 세트 50레벨 달성하기.",
+      "EnTitle": "Upgrading to Awesome Me!",
+      "EnExplanation": "Achieve Evolution Set Level 50."
+    },
+    {
+      "Id": 160120,
+      "KrTitle": "캐릭터를 꾸며보자!",
+      "KrExplanation": "캐릭터 스타일 1번 변경하기.",
+      "EnTitle": "Let's decorate the character!",
+      "EnExplanation": "Change Character Style 1."
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Data
+  m_EditorClassIdentifier: 
+  m_GroupName: Data
+  m_GUID: 5bffeec6faae4a74fa16a2725c8608e2
+  m_SerializeEntries:
+  - m_GUID: 010df9eba5d5747f3af59d9366319377
+    m_Address: LoginRewardData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0778bb8125d8849c3a084e3a7668be0f
+    m_Address: ErrorData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 180276508cfe04083b6d526142ef1037
+    m_Address: ThoughtBubbleLanguageData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 49e1ec199609e467fb55a28d6b80d67a
+    m_Address: SuberunkerItemSpriteData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4b566f8e837b249e9912a5387ea7243c
+    m_Address: EvolutionItemData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4e1462672ae2440d7b85603db1d69f93
+    m_Address: GameLanguageData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6155f33f5a28d9a478fd490ee715fa0b
+    m_Address: TinyFarmEvent
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7e33f902736e1804fb5a6dd47b830666
+    m_Address: EnemyData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 803be06901a52461cbf6eafb4a2f2bd4
+    m_Address: DifficultySettingsData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 88ec2339d1d7148d18da10fdcdc059ce
+    m_Address: MissionLanguageData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8b3cce5bc0edf44bca6934d995789186
+    m_Address: GameSoundData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 96619377f9d16694987a29307dfa17ef
+    m_Address: SuberunkerItemData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a23a4322252074f8696029de52de65a4
+    m_Address: CharacterItemSpriteData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a54450a91e002fd48ab4329126fcf875
+    m_Address: IapProductData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a7785580d67dc4de09802fe48da2e7d1
+    m_Address: MissionData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c263c419873302943a5b39e2e0f78e88
+    m_Address: TestData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c6148a229d8b04c66b20db9729e1bff7
+    m_Address: ThoughtBubbleData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d36c9aff4a27d44528339a5651a44df3
+    m_Address: CashItemData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e1a8751486f7e4db9be17477858b13b4
+    m_Address: EvolutionData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e76644f0ae49c444286491856bd41cf8
+    m_Address: PlayerData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 2e346ec8844bb4282b60d1f21fe4423c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 549709d8f26723f4abe93fa785aceba6, type: 2}
+    - {fileID: 11400000, guid: 7edb86cd3b9386840a74860c92da38b6, type: 2}

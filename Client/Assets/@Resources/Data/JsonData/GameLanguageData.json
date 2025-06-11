@@ -1,0 +1,279 @@
+{
+  "gameLanguageDatas": [
+    {
+      "Id": 91001,
+      "KrText": "최고 기록",
+      "EnText": "Best Record"
+    },
+    {
+      "Id": 91002,
+      "KrText": "최근 기록",
+      "EnText": "Recent Record"
+    },
+    {
+      "Id": 91003,
+      "KrText": "시간",
+      "EnText": "h"
+    },
+    {
+      "Id": 91004,
+      "KrText": "분",
+      "EnText": "m"
+    },
+    {
+      "Id": 91005,
+      "KrText": "초",
+      "EnText": "s"
+    },
+    {
+      "Id": 91006,
+      "KrText": "숍",
+      "EnText": "Shop"
+    },
+    {
+      "Id": 91007,
+      "KrText": "미션",
+      "EnText": "Mission"
+    },
+    {
+      "Id": 91008,
+      "KrText": "캐릭터",
+      "EnText": "Character"
+    },
+    {
+      "Id": 91009,
+      "KrText": "게임 시작",
+      "EnText": "Game Start"
+    },
+    {
+      "Id": 91010,
+      "KrText": "기본 속도",
+      "EnText": "Default Speed"
+    },
+    {
+      "Id": 91011,
+      "KrText": "기본 Hp",
+      "EnText": "Default Hp"
+    },
+    {
+      "Id": 91012,
+      "KrText": "기본 행운",
+      "EnText": "Default Luck"
+    },
+    {
+      "Id": 91013,
+      "KrText": "이름",
+      "EnText": "Name"
+    },
+    {
+      "Id": 91014,
+      "KrText": "닉네임",
+      "EnText": "Nickname"
+    },
+    {
+      "Id": 91015,
+      "KrText": "사용할 수 없는 닉네임입니다.",
+      "EnText": "This nickname is not available."
+    },
+    {
+      "Id": 91016,
+      "KrText": "넘기기",
+      "EnText": "Skip"
+    },
+    {
+      "Id": 91017,
+      "KrText": "홈",
+      "EnText": "Home"
+    },
+    {
+      "Id": 91018,
+      "KrText": "다시 시작",
+      "EnText": "Restart"
+    },
+    {
+      "Id": 91019,
+      "KrText": "레벨 업",
+      "EnText": "Level Up"
+    },
+    {
+      "Id": 91020,
+      "KrText": "비밀번호",
+      "EnText": "Password"
+    },
+    {
+      "Id": 91021,
+      "KrText": "20자 이내의 비밀번호를 입력해주세요.",
+      "EnText": "Please enter a password within 20 characters."
+    },
+    {
+      "Id": 91022,
+      "KrText": "비밀번호 확인",
+      "EnText": "Confirm Password"
+    },
+    {
+      "Id": 91023,
+      "KrText": "비밀번호가 일치하지 않습니다.",
+      "EnText": "The password does not match."
+    },
+    {
+      "Id": 91024,
+      "KrText": "사용할 수 없는 아이디입니다.",
+      "EnText": "The username is not available."
+    },
+    {
+      "Id": 91025,
+      "KrText": "회원가입",
+      "EnText": "Sign Up"
+    },
+    {
+      "Id": 91026,
+      "KrText": "로그인",
+      "EnText": "Sign In"
+    },
+    {
+      "Id": 91027,
+      "KrText": "아이디",
+      "EnText": "Id"
+    },
+    {
+      "Id": 91028,
+      "KrText": "환영합니다",
+      "EnText": "Welcome"
+    },
+    {
+      "Id": 91029,
+      "KrText": "중복 확인",
+      "EnText": "Id Check"
+    },
+    {
+      "Id": 91030,
+      "KrText": "유효한 아이디를 입력하세요.",
+      "EnText": "Please enter a valid Id."
+    },
+    {
+      "Id": 91031,
+      "KrText": "로그인 성공.",
+      "EnText": "Login successful."
+    },
+    {
+      "Id": 91032,
+      "KrText": "아이디 중복 확인을 해주세요.",
+      "EnText": "Please check for Id availability."
+    },
+    {
+      "Id": 91033,
+      "KrText": "계정 생성을 취소하시겠습니까?",
+      "EnText": "Do you want to cancel account creation?"
+    },
+    {
+      "Id": 91034,
+      "KrText": "계정 만들기 성공.",
+      "EnText": "Account creation successful."
+    },
+    {
+      "Id": 91035,
+      "KrText": "계정 만들기 실패.",
+      "EnText": "Failed to create account."
+    },
+    {
+      "Id": 91036,
+      "KrText": "네트워크 상태가 불안정하여 정산을 처리할 수 없습니다.",
+      "EnText": "The settlement could not be processed due to poor network conditions."
+    },
+    {
+      "Id": 91037,
+      "KrText": "설정",
+      "EnText": "Settings"
+    },
+    {
+      "Id": 91038,
+      "KrText": "음악",
+      "EnText": "Music"
+    },
+    {
+      "Id": 91039,
+      "KrText": "효과음",
+      "EnText": "SoundFx"
+    },
+    {
+      "Id": 91040,
+      "KrText": "진동",
+      "EnText": "Vibration"
+    },
+    {
+      "Id": 91041,
+      "KrText": "언어",
+      "EnText": "Language"
+    },
+    {
+      "Id": 91042,
+      "KrText": "완료",
+      "EnText": "Complete"
+    },
+    {
+      "Id": 91043,
+      "KrText": "수령",
+      "EnText": "Claim"
+    },
+    {
+      "Id": 91044,
+      "KrText": "떠나기",
+      "EnText": "Leave"
+    },
+    {
+      "Id": 91045,
+      "KrText": "없는 아이디입니다.",
+      "EnText": "Account not found."
+    },
+    {
+      "Id": 91046,
+      "KrText": "로그아웃",
+      "EnText": "LOGOUT"
+    },
+    {
+      "Id": 91047,
+      "KrText": "커스텀 구매",
+      "EnText": "Custom Purchase"
+    },
+    {
+      "Id": 91048,
+      "KrText": "업그레이드",
+      "EnText": "Upgrade"
+    },
+    {
+      "Id": 91049,
+      "KrText": "구매하시겠습니까?",
+      "EnText": "Would you like to make a purchase?"
+    },
+    {
+      "Id": 91050,
+      "KrText": "업그레이드를 진행하시겠습니까?",
+      "EnText": "Would you like to proceed with the upgrade?"
+    },
+    {
+      "Id": 91051,
+      "KrText": "커스텀",
+      "EnText": "Custom"
+    },
+    {
+      "Id": 91052,
+      "KrText": "구매하기",
+      "EnText": "Agree to Buy"
+    },
+    {
+      "Id": 91053,
+      "KrText": "진화",
+      "EnText": "Evolution"
+    },
+    {
+      "Id": 91054,
+      "KrText": "네",
+      "EnText": "Yes"
+    },
+    {
+      "Id": 91055,
+      "KrText": "아니요",
+      "EnText": "No"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+Id,KrText,EnText
+91001,최고 기록,Best Record
+91002,최근 기록,Recent Record
+91003,시간,h
+91004,분,m
+91005,초,s
+91006,숍,Shop
+91007,미션,Mission
+91008,캐릭터,Character
+91009,게임 시작,Game Start
+91010,기본 속도,Default Speed
+91011,기본 Hp,Default Hp
+91012,기본 행운,Default Luck
+91013,이름,Name
+91014,닉네임,Nickname
+91015,사용할 수 없는 닉네임입니다.,This nickname is not available.
+91016,넘기기,Skip
+91017,홈,Home
+91018,다시 시작,Restart
+91019,레벨 업,Level Up
+91020,비밀번호,Password
+91021,20자 이내의 비밀번호를 입력해주세요.,Please enter a password within 20 characters.
+91022,비밀번호 확인,Confirm Password
+91023,비밀번호가 일치하지 않습니다.,The password does not match.
+91024,사용할 수 없는 아이디입니다.,The username is not available.
+91025,회원가입,Sign Up
+91026,로그인,Sign In
+91027,아이디,Id
+91028,환영합니다,Welcome
+91029,중복 확인,Id Check
+91030,유효한 아이디를 입력하세요.,Please enter a valid Id.
+91031,로그인 성공.,Login successful.
+91032,아이디 중복 확인을 해주세요.,Please check for Id availability.
+91033,계정 생성을 취소하시겠습니까?,Do you want to cancel account creation?
+91034,계정 만들기 성공.,Account creation successful.
+91035,계정 만들기 실패.,Failed to create account.
+91036,네트워크 상태가 불안정하여 정산을 처리할 수 없습니다.,The settlement could not be processed due to poor network conditions.
+91037,설정,Settings
+91038,음악,Music
+91039,효과음,SoundFx
+91040,진동,Vibration
+91041,언어,Language
+91042,완료,Complete
+91043,수령,Claim
+91044,떠나기,Leave
+91045,없는 아이디입니다.,Account not found.
+91046,로그아웃,LOGOUT
+91047,커스텀 구매,Custom Purchase
+91048,업그레이드,Upgrade
+91049,구매하시겠습니까?,Would you like to make a purchase?
+91050,업그레이드를 진행하시겠습니까?,Would you like to proceed with the upgrade?
+91051,커스텀,Custom
+91052,구매하기,Agree to Buy
+91053,진화,Evolution
+91054,네,Yes
+91055,아니요,No

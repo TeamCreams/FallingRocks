@@ -1,0 +1,46 @@
+{
+  "playerDatas": [
+    {
+      "Id": 20001,
+      "Name": "Blaze",
+      "Speed": 105.0,
+      "Hp": 95.0,
+      "Luck": 0.15
+    },
+    {
+      "Id": 20002,
+      "Name": "Gambit",
+      "Speed": 100.0,
+      "Hp": 45.0,
+      "Luck": 0.5
+    },
+    {
+      "Id": 20003,
+      "Name": "Dash",
+      "Speed": 115.0,
+      "Hp": 90.0,
+      "Luck": 0.12
+    },
+    {
+      "Id": 20004,
+      "Name": "Ace",
+      "Speed": 125.0,
+      "Hp": 85.0,
+      "Luck": 0.18
+    },
+    {
+      "Id": 20005,
+      "Name": "Flash",
+      "Speed": 145.0,
+      "Hp": 80.0,
+      "Luck": 0.13
+    },
+    {
+      "Id": 20006,
+      "Name": "Brick",
+      "Speed": 80.0,
+      "Hp": 110.0,
+      "Luck": 0.08
+    }
+  ]
+}

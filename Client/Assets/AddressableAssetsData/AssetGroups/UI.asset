@@ -1,0 +1,197 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: UI
+  m_EditorClassIdentifier: 
+  m_GroupName: UI
+  m_GUID: 42583b06f1124b04b924798d88ccd356
+  m_SerializeEntries:
+  - m_GUID: 000114e84013c403bb9df0ca1d97122a
+    m_Address: UI_ShopPanel
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 02bf4f5d1ce7147838ee3b3d359ff5fc
+    m_Address: UI_HpProgressBar
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 074e9ba77b76a4d468a04f64d4755235
+    m_Address: UI_LoadingPageTimelineScene
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0af399bddae924453b997dd839ac5d40
+    m_Address: UI_TopBar
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1a4ed7f71e4934c15a766d49c84f7f80
+    m_Address: UI_RevivalPrepPopup
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 212b4947a67aa4d0b9f816a9a6a2b215
+    m_Address: UI_StartLoadingScene
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 36730afbf5f9e44cf8b51c0b944632d5
+    m_Address: UI_ChattingItem
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a9290a40e97541a9bbc15dfd5038349
+    m_Address: UI_ToastPopup
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 42d46d5551a96434894a5e3cd85ca90a
+    m_Address: UI_LoginReward
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4edb935c1f2de4fed97659a2dd53bd34
+    m_Address: UI_Merchandise
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 556bff4fc16964492863f34639e63146
+    m_Address: UI_SettingPopup
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6bc16064e2e6540eba63828a404bd444
+    m_Address: UI_ErrorButtonPopup
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7d587e52a9df44866b7a6f50a56d672a
+    m_Address: UI_UserInfoPopup
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 82a8d614e5b104762a822464c28a3d5d
+    m_Address: UI_RetryPopup
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d4c381db00b2441dbbe7b2d0f9723ff
+    m_Address: UI_ContinuePopup
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f568de498ed2c44ca9a90d8fdb5f6a6
+    m_Address: UI_SuberunkerScene
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 938dce7912c3e4824bf77bb4390149ee
+    m_Address: UI_ChooseCharacterScene
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9c234e6c73b664d2a929433d5dfce4ea
+    m_Address: UI_SignUpScene
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a9f92b7e709494a78b0a6ee031af111d
+    m_Address: UI_CharacterStyleItemText
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b56dfdb3c3412406281823d20a73aa59
+    m_Address: UI_LevelUpPopup
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b7101f949dad74f9aa684029f5bc0826
+    m_Address: UI_EvolutionItemSet
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc85c7de83a994aa99d180438dd3154e
+    m_Address: UI_RankingItem
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bec6b7cd9d2a04e70a5305a3a5a66323
+    m_Address: UI_PausePopup
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bfc0a6999b57d4a5d8c16412328fba9f
+    m_Address: UI_RewardAcquiredPopup
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c3f8b9a62295d42f49c9e58de3b98e9f
+    m_Address: UI_PurchasePopup
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da17864b9d3568e4dbee623ad7a9328b
+    m_Address: UI_Joystick
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eeddc4314c2294d13a4c321f6171ccf3
+    m_Address: UI_SignInScene
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f1a48b17f1f334d8d854960f56ba0ff5
+    m_Address: UI_SuberunkerSceneHomeScene
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe5f546dd73dd49e7b489f186a3e44c9
+    m_Address: UI_EnergyShopPanel
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 2e346ec8844bb4282b60d1f21fe4423c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 2f5a14d6146649f40af0e49abba8c6c2, type: 2}
+    - {fileID: 11400000, guid: 2d554c1c64df9134491511568f6ee5dd, type: 2}

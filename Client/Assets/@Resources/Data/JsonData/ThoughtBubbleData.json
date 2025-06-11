@@ -1,0 +1,74 @@
+{
+  "thoughtBubbleDatas": [
+    {
+      "Id": 80001,
+      "Behavior": 0,
+      "TextId": "A10001"
+    },
+    {
+      "Id": 80002,
+      "Behavior": 0,
+      "TextId": "A10002"
+    },
+    {
+      "Id": 80003,
+      "Behavior": 0,
+      "TextId": "A10003"
+    },
+    {
+      "Id": 80004,
+      "Behavior": 0,
+      "TextId": "A10004"
+    },
+    {
+      "Id": 80005,
+      "Behavior": 1,
+      "TextId": "B10001"
+    },
+    {
+      "Id": 80006,
+      "Behavior": 1,
+      "TextId": "B10002"
+    },
+    {
+      "Id": 80007,
+      "Behavior": 1,
+      "TextId": "B10003"
+    },
+    {
+      "Id": 80008,
+      "Behavior": 2,
+      "TextId": "C10001"
+    },
+    {
+      "Id": 80009,
+      "Behavior": 2,
+      "TextId": "C10002"
+    },
+    {
+      "Id": 80010,
+      "Behavior": 2,
+      "TextId": "C10003"
+    },
+    {
+      "Id": 80011,
+      "Behavior": 2,
+      "TextId": "C10004"
+    },
+    {
+      "Id": 80012,
+      "Behavior": 3,
+      "TextId": "D10001"
+    },
+    {
+      "Id": 80013,
+      "Behavior": 3,
+      "TextId": "D10002"
+    },
+    {
+      "Id": 80014,
+      "Behavior": 3,
+      "TextId": "D10003"
+    }
+  ]
+}

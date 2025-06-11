@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_GUID: 1f4d5e14bf776425a9b1fb8649a87b4e
+  m_SerializeEntries:
+  - m_GUID: 3c061595fdb4f4a1fb81caad7c858d3f
+    m_Address: UI_SuberunkerTimelineScene
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 511a587cb8a1143ea999965b82197936
+    m_Address: Assets/@Resources/UI/Scene/UI_ChooseCharacterScene.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5c5a7997492e44abc9c5f9d83d4ac1f9
+    m_Address: UI_CharacterStyleItem
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5f4842027b4893b429f7fbaceb4abbd9
+    m_Address: explosion_sharp_flat_3x3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 72a4d4c42927d4cb099ace79c16a0387
+    m_Address: UI_MissionPanel
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8301f267a30fa744ca3e7cecbf633acb
+    m_Address: UI_TinyFarmScene
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a5c425f7cf3819b47ade9aaaefb754a5
+    m_Address: UI_InventorySlot
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a866e239766727f45b0f300e999f88bb
+    m_Address: Hit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c865c708479334f2d9b5dabd47ec7215
+    m_Address: UI_LoadingPopup
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f06fc6ac58430514cb1265820eb4ce40
+    m_Address: EventSystem
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe629fb308d0f96459c752cf5803d6cd
+    m_Address: UI_Inventory
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ff7b90ab4e908c9478662a3d619b0f15
+    m_Address: UI_InputNicknameScene
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 2e346ec8844bb4282b60d1f21fe4423c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 6ce551861af0b4ea0b7c0d68fd9b083b, type: 2}
+    - {fileID: 11400000, guid: 36c47c6ee9dbe49b8b07f370afcad525, type: 2}

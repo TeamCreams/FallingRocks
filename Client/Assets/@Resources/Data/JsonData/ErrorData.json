@@ -1,0 +1,180 @@
+{
+  "errorDatas": [
+    {
+      "Id": 150001,
+      "Type": 1,
+      "TitleEn": null,
+      "NoticeEn": "Settlement failed due to poor network conditions. Would you like to try again?",
+      "TitleKr": null,
+      "NoticeKr": "네트워크 상태가 좋지 않습니다. 다시 전송하시겠습니까?"
+    },
+    {
+      "Id": 150002,
+      "Type": 2,
+      "TitleEn": null,
+      "NoticeEn": "Settlement failed due to poor network conditions.",
+      "TitleKr": null,
+      "NoticeKr": "네트워크 상태가 좋지 않습니다."
+    },
+    {
+      "Id": 150003,
+      "Type": 3,
+      "TitleEn": null,
+      "NoticeEn": "Please enter a valid ID.",
+      "TitleKr": null,
+      "NoticeKr": "유효한 ID를 입력해 주세요."
+    },
+    {
+      "Id": 150004,
+      "Type": 4,
+      "TitleEn": null,
+      "NoticeEn": "Login successful.",
+      "TitleKr": null,
+      "NoticeKr": "로그인에 성공했습니다."
+    },
+    {
+      "Id": 150005,
+      "Type": 5,
+      "TitleEn": null,
+      "NoticeEn": "The ID does not exist.",
+      "TitleKr": null,
+      "NoticeKr": "해당 ID는 존재하지 않습니다."
+    },
+    {
+      "Id": 150006,
+      "Type": 6,
+      "TitleEn": null,
+      "NoticeEn": "The password does not match.",
+      "TitleKr": null,
+      "NoticeKr": "비밀번호가 일치하지 않습니다."
+    },
+    {
+      "Id": 150007,
+      "Type": 7,
+      "TitleEn": null,
+      "NoticeEn": "Failed to save. Please try again.",
+      "TitleKr": null,
+      "NoticeKr": "저장에 실패했습니다..."
+    },
+    {
+      "Id": 150008,
+      "Type": 8,
+      "TitleEn": "Account creation has failed. ",
+      "NoticeEn": "Please try again.",
+      "TitleKr": "계정 생성에 실패했습니다.",
+      "NoticeKr": "다시 시도해 주세요."
+    },
+    {
+      "Id": 150009,
+      "Type": 9,
+      "TitleEn": null,
+      "NoticeEn": "This ID is not available.",
+      "TitleKr": null,
+      "NoticeKr": "해당 ID는 사용할 수 없습니다."
+    },
+    {
+      "Id": 150010,
+      "Type": 10,
+      "TitleEn": null,
+      "NoticeEn": "Please enter a password within 20 characters.",
+      "TitleKr": null,
+      "NoticeKr": "20자 이내의 비밀번호를 입력해 주세요."
+    },
+    {
+      "Id": 150011,
+      "Type": 11,
+      "TitleEn": null,
+      "NoticeEn": "Account creation successful.",
+      "TitleKr": null,
+      "NoticeKr": "계정 생성에 성공했습니다."
+    },
+    {
+      "Id": 150012,
+      "Type": 12,
+      "TitleEn": null,
+      "NoticeEn": "Do you want to cancel account creation?",
+      "TitleKr": null,
+      "NoticeKr": "계정 생성을 취소하시겠습니까?"
+    },
+    {
+      "Id": 150013,
+      "Type": 13,
+      "TitleEn": null,
+      "NoticeEn": "The nickname is not available.",
+      "TitleKr": null,
+      "NoticeKr": "해당 닉네임은 사용할 수 없습니다."
+    },
+    {
+      "Id": 150014,
+      "Type": 14,
+      "TitleEn": null,
+      "NoticeEn": "You do not have enough Gold.",
+      "TitleKr": null,
+      "NoticeKr": "골드가 부족합니다."
+    },
+    {
+      "Id": 150015,
+      "Type": 15,
+      "TitleEn": null,
+      "NoticeEn": "The password is invalid.",
+      "TitleKr": null,
+      "NoticeKr": "사용할 수 없는 비밀번호입니다."
+    },
+    {
+      "Id": 150016,
+      "Type": 16,
+      "TitleEn": null,
+      "NoticeEn": "The entered passwords do not match.",
+      "TitleKr": null,
+      "NoticeKr": "입력하신 비밀번호가 같지 않습니다."
+    },
+    {
+      "Id": 150017,
+      "Type": 17,
+      "TitleEn": null,
+      "NoticeEn": null,
+      "TitleKr": null,
+      "NoticeKr": null
+    },
+    {
+      "Id": 150018,
+      "Type": 18,
+      "TitleEn": "Logout",
+      "NoticeEn": "Do you want to log out?",
+      "TitleKr": "로그아웃",
+      "NoticeKr": "로그아웃하시겠습니까?"
+    },
+    {
+      "Id": 150019,
+      "Type": 19,
+      "TitleEn": null,
+      "NoticeEn": "You do not have enough energy to play the game.",
+      "TitleKr": null,
+      "NoticeKr": "에너지가 부족합니다."
+    },
+    {
+      "Id": 150020,
+      "Type": 20,
+      "TitleEn": null,
+      "NoticeEn": "The username or password does not match.",
+      "TitleKr": null,
+      "NoticeKr": "아이디 또는 비밀번호가 일치하지 않습니다."
+    },
+    {
+      "Id": 150021,
+      "Type": 21,
+      "TitleEn": null,
+      "NoticeEn": "This Google account is already registered. ",
+      "TitleKr": null,
+      "NoticeKr": "가입이 되어있는 Google 계정입니다."
+    },
+    {
+      "Id": 150022,
+      "Type": 22,
+      "TitleEn": null,
+      "NoticeEn": "Would you like to merge your existing account with this Google account?",
+      "TitleKr": null,
+      "NoticeKr": "기존 계정과 Google 계정을 합병하시겠습니까?"
+    }
+  ]
+}
