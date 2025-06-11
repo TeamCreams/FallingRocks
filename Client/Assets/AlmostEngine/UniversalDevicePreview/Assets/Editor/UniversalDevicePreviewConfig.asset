@@ -157,7 +157,7 @@ MonoBehaviour:
         y: 0
         width: 2204
         height: 1080
-    - m_Active: 1
+    - m_Active: 0
       m_Width: 1280
       m_Height: 720
       m_Scale: 1
@@ -238,7 +238,7 @@ MonoBehaviour:
         y: 0
         width: 2898
         height: 1440
-    - m_Active: 1
+    - m_Active: 0
       m_Width: 1280
       m_Height: 800
       m_Scale: 1
@@ -391,11 +391,11 @@ MonoBehaviour:
   m_PreviewGalleryZoom: 0.59
   m_PreviewZoom: 0.22
   m_RefreshMode: 0
-  m_AutoRefresh: 1
+  m_AutoRefresh: 0
   m_RefreshDelay: 0.83
   m_GalleryDisplayMode: 2
   m_PreviewDisplayMode: 1
-  m_DrawingMode: 2
+  m_DrawingMode: 0
   m_DeviceRendererCamera: {fileID: 2009090, guid: 277a80b5609ce0441a8f4b6e014524f1, type: 3}
   m_DefaultDeviceCanvas: {fileID: 22333258, guid: 1c3e759c6432d0d45bbb466445ec03c5, type: 3}
   m_TransparentDeviceBackground: 0

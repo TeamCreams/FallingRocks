@@ -33,6 +33,14 @@ public class UIManager
 
     public T ShowSceneUI<T>(string name = null) where T : UI_Scene
     {
+        var sceneUI = GameObject.FindAnyObjectByType<T>();
+
+        if(sceneUI)
+        {
+            Debug.Log($"Scene UI already exists: {sceneUI.name}");
+            return sceneUI;
+        }
+
         if (string.IsNullOrEmpty(name))
         {
             name = typeof(T).ToString();
