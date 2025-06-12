@@ -161,7 +161,9 @@ public class UI_TopBar : UI_Base
     
     private void OnEvent_ChallengeScaleCount(Component sender, object param)
     {
-        GetText((int)Texts.Stone_Text).text = Managers.Game.DifficultySettingsInfo.ChallengeScaleCount.ToString();
+        // 음수 방지
+        int stoneCount = Mathf.Max(0, Managers.Game.DifficultySettingsInfo.ChallengeScaleCount);    
+        GetText((int)Texts.Stone_Text).text = stoneCount.ToString();
     }
     
     private void OnClick_ShowPausePopup(PointerEventData eventData)

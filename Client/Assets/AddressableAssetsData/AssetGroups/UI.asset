@@ -33,12 +33,6 @@ MonoBehaviour:
     m_SerializedLabels:
     - PreLoad
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 0af399bddae924453b997dd839ac5d40
-    m_Address: UI_TopBar
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - PreLoad
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 1a4ed7f71e4934c15a766d49c84f7f80
     m_Address: UI_RevivalPrepPopup
     m_ReadOnly: 0
@@ -155,6 +149,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: bfc0a6999b57d4a5d8c16412328fba9f
     m_Address: UI_RewardAcquiredPopup
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c042e82bd09b148f39401c95413d3439
+    m_Address: UI_TopBar
     m_ReadOnly: 0
     m_SerializedLabels:
     - PreLoad
