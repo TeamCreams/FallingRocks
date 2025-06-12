@@ -1708,7 +1708,8 @@ namespace GameApi.Controllers
                     throw new CommonException(EStatusCode.EnergyInsufficient, "에너지가 부족합니다.");
                 }
 
-                if(userAccount.Energy <= 10)//이게 맞나? (10 <= userAccount.Energy) 원래 이랬음 
+                // 에너지가 10 미만일 때, 에너지를 소비할 때마다 쿨타임이 초기화되면 안되니까.
+                if(userAccount.Energy == 10)//userAccount.Energy <= 10 
                 {
                     userAccount.LatelyEnergy = DateTime.UtcNow;
                 }
