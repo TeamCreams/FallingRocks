@@ -81,8 +81,8 @@ public class UI_PausePopup : UI_Popup
     }
     void OnEvent_SetLanguage(Component sender, object param)
     {
-        GetText((int)Texts.Restart_Text).text = Managers.Language.LocalizedString(91019);
-        GetText((int)Texts.Continue_Text).text = Managers.Language.LocalizedString(91019);
-        GetText((int)Texts.GiveUp_Text).text = Managers.Language.LocalizedString(91019);
+        GetText((int)Texts.Restart_Text).text = Managers.Language.LocalizedString(91063);
+        GetText((int)Texts.Continue_Text).text = Managers.Language.LocalizedString(91064);
+        GetText((int)Texts.GiveUp_Text).text = Managers.Language.LocalizedString(91065);
     }
 }

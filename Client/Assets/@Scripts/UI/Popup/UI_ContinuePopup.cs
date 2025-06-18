@@ -142,8 +142,8 @@ public class UI_ContinuePopup : UI_PurchasePopupBase
         _bestRecord = Managers.Language.LocalizedString(91001);
         _recentRecord = Managers.Language.LocalizedString(91002);//지금 기록
         GetText((int)Texts.Close_Text).text = Managers.Language.LocalizedString(91017);
-        GetText((int)Texts.Ok_Text).text = Managers.Language.LocalizedString(91052);
-        GetText((int)Texts.Ads_Text).text = Managers.Language.LocalizedString(91018);
+        GetText((int)Texts.Ok_Text).text = Managers.Language.LocalizedString(91068);
+        GetText((int)Texts.Ads_Text).text = Managers.Language.LocalizedString(91069);
     }
 
 }

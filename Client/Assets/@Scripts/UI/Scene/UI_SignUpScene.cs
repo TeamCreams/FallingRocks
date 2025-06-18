@@ -39,6 +39,7 @@ public class UI_SignUpScene : UI_Scene
         ConfirmPassword_Text,
         Placeholder_ConfirmPassword_Text,
         SignIn_Text,
+        GoogleSignup_Text
     }
 
     private string _idUnavailable = "사용할 수 없는 아이디입니다.";
@@ -217,8 +218,11 @@ public class UI_SignUpScene : UI_Scene
         GetText((int)Texts.ConfirmPassword_Text).text = Managers.Language.LocalizedString(91022);
         GetText((int)Texts.Placeholder_ConfirmPassword_Text).text = Managers.Language.LocalizedString(91022);
         _confirmPasswordUnavailable = Managers.Language.LocalizedString(91023);
-        
+
         GetText((int)Texts.SignIn_Text).text = Managers.Language.LocalizedString(91026);
         _enterValidId = Managers.Language.LocalizedString(91032);
+
+        GetText((int)Texts.GoogleSignup_Text).text = Managers.Language.LocalizedString(91067);
+
     }
 }

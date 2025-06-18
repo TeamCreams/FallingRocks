@@ -24,6 +24,11 @@ public class UI_LoginReward : UI_Base
     private SuberunkerSceneHomeScene _scene;
     private bool _isTimeCalculated = false;
     private bool _isAccept = false;
+    private string _calculatingTime = "시간 계산 중";
+    private string _rewardAvailable = "리워드 획득 완료";
+    private string _minutesString = "분";
+    private string _hoursString = "초";
+    
     public override bool Init()
     {
         if (base.Init() == false)
@@ -43,12 +48,15 @@ public class UI_LoginReward : UI_Base
 
         _scene = Managers.Scene.CurrentScene as SuberunkerSceneHomeScene;
 
+        Managers.Event.AddEvent(EEventType.SetLanguage, OnEvent_SetLanguage);
+
         // hierarchy 순서 변경
         this.transform.SetAsFirstSibling();
         return true;
     }
     private void OnDestroy()
     {
+        Managers.Event.RemoveEvent(EEventType.SetLanguage, OnEvent_SetLanguage);
         Managers.SignalR.OnChangedHeartBeat -= CheckServerTime; // 구독 해제
     }
     private void OnDisable()
@@ -57,7 +65,7 @@ public class UI_LoginReward : UI_Base
     }
     public void SetInfo()
     {
-        GetText((int)Texts.RewardResetTimer_Text).text = "시간 계산 중";
+        GetText((int)Texts.RewardResetTimer_Text).text = _calculatingTime;
         _parentScrollRect = this.transform.GetComponentInParent<ScrollRect>();
     }
     private void GetReward(PointerEventData eventData)
@@ -67,7 +75,7 @@ public class UI_LoginReward : UI_Base
             return;
         }
 
-        GetText((int)Texts.RewardResetTimer_Text).text = "리워드 획득 완료";
+        GetText((int)Texts.RewardResetTimer_Text).text = _rewardAvailable;
         _isAccept = true;
 
         int gold = _scene.GetRandomReward();
@@ -84,15 +92,15 @@ public class UI_LoginReward : UI_Base
 
         if (0 < _chargeTime.TotalSeconds)
         {
-            GetText((int)Texts.RewardResetTimer_Text).text = $"{_chargeTime.Hours} h {_chargeTime.Minutes} m";
+            GetText((int)Texts.RewardResetTimer_Text).text = $"{_chargeTime.Hours} {_hoursString} {_chargeTime.Minutes} {_minutesString}";
         }
         else
         {
-            GetText((int)Texts.RewardResetTimer_Text).text = "리워드 획득 가능";
+            GetText((int)Texts.RewardResetTimer_Text).text = _rewardAvailable;
         }
     }
     private void OnBeginDrag(PointerEventData eventData)
-	{
+    {
         _parentScrollRect.OnBeginDrag(eventData); // 부모한테 이벤트 전달
     }
     private void OnDrag(PointerEventData eventData)
@@ -102,5 +110,15 @@ public class UI_LoginReward : UI_Base
     private void OnEndDrag(PointerEventData eventData)
     {
         _parentScrollRect.OnEndDrag(eventData);
+    }
+    void OnEvent_SetLanguage(Component sender, object param)
+    {
+        _hoursString = Managers.Language.LocalizedString(91003);
+        _minutesString = Managers.Language.LocalizedString(91004);
+
+        _calculatingTime = Managers.Language.LocalizedString(91060);
+        _rewardAvailable = Managers.Language.LocalizedString(91059);
+        GetText((int)Texts.Price_Text).text = Managers.Language.LocalizedString(91058);
+        GetText((int)Texts.Title_Text).text = Managers.Language.LocalizedString(91057);
     }
 }

@@ -33,7 +33,8 @@ public class UI_SignInScene : UI_Scene
         Password_Text,
         Placeholder_Password_Text,
         SignIn_Text,
-        SignUp_Text
+        SignUp_Text,
+        GoogleSignin_Text
     }
 
     // private string _passwordUnavailable = "비밀번호가 일치하지 않습니다.";
@@ -296,5 +297,8 @@ public class UI_SignInScene : UI_Scene
 
         GetText((int)Texts.SignUp_Text).text = Managers.Language.LocalizedString(91025);
         GetText((int)Texts.SignIn_Text).text = Managers.Language.LocalizedString(91026);
+
+        GetText((int)Texts.GoogleSignin_Text).text = Managers.Language.LocalizedString(91066);
+
     }
 }
