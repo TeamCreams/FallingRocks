@@ -27,7 +27,7 @@ Id,KrText,EnText
 91026,로그인,Sign In
 91027,아이디,Id
 91028,환영합니다,Welcome
-91029,중복 확인,Id Check
+91029,중복 확인,Check Availability
 91030,유효한 아이디를 입력하세요.,Please enter a valid Id.
 91031,로그인 성공.,Login successful.
 91032,아이디 중복 확인을 해주세요.,Please check for Id availability.
@@ -54,3 +54,14 @@ Id,KrText,EnText
 91053,진화,Evolution
 91054,네,Yes
 91055,아니요,No
+91056,입력하기,Enter
+91057,출석 보상,Attendance Reward
+91058,무료,Free
+91059,리워드 획득 가능,Reward Available
+91060,시간 계산 중,Calculating Time
+91061,리워드,Reward
+91062,보내기,Send
+91063,다시 시작,Restart
+91064,계속하기,Continue
+91065,포기하기,GiveUp
+91066,구글 계정 로그인,Google Account Login

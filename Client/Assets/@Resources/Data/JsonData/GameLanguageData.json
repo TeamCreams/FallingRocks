@@ -143,7 +143,7 @@
     {
       "Id": 91029,
       "KrText": "중복 확인",
-      "EnText": "Id Check"
+      "EnText": "Check Availability"
     },
     {
       "Id": 91030,
@@ -274,6 +274,61 @@
       "Id": 91055,
       "KrText": "아니요",
       "EnText": "No"
+    },
+    {
+      "Id": 91056,
+      "KrText": "입력하기",
+      "EnText": "Enter"
+    },
+    {
+      "Id": 91057,
+      "KrText": "출석 보상",
+      "EnText": "Attendance Reward"
+    },
+    {
+      "Id": 91058,
+      "KrText": "무료",
+      "EnText": "Free"
+    },
+    {
+      "Id": 91059,
+      "KrText": "리워드 획득 가능",
+      "EnText": "Reward Available"
+    },
+    {
+      "Id": 91060,
+      "KrText": "시간 계산 중",
+      "EnText": "Calculating Time"
+    },
+    {
+      "Id": 91061,
+      "KrText": "리워드",
+      "EnText": "Reward"
+    },
+    {
+      "Id": 91062,
+      "KrText": "보내기",
+      "EnText": "Send"
+    },
+    {
+      "Id": 91063,
+      "KrText": "다시 시작",
+      "EnText": "Restart"
+    },
+    {
+      "Id": 91064,
+      "KrText": "계속하기",
+      "EnText": "Continue"
+    },
+    {
+      "Id": 91065,
+      "KrText": "포기하기",
+      "EnText": "GiveUp"
+    },
+    {
+      "Id": 91066,
+      "KrText": "구글 계정 로그인",
+      "EnText": "Google Account Login"
     }
   ]
 }
