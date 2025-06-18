@@ -328,7 +328,22 @@
     {
       "Id": 91066,
       "KrText": "구글 계정 로그인",
-      "EnText": "Google Account Login"
+      "EnText": "Sign in with Google"
+    },
+    {
+      "Id": 91067,
+      "KrText": "구글 계정 회원가입",
+      "EnText": "Sign up with Google"
+    },
+    {
+      "Id": 91068,
+      "KrText": "이어하기",
+      "EnText": "Continue"
+    },
+    {
+      "Id": 91069,
+      "KrText": "광고 보기",
+      "EnText": "Watch Ad"
     }
   ]
 }
