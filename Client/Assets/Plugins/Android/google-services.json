@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "550559090082-lq0q275co158lfbiefd3f3i0c6c4eac3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.creams.suberunker",
+            "certificate_hash": "e7e0a27bc12c3f5705d80394ec6742636fbf0a3f"
+          }
+        },
+        {
           "client_id": "550559090082-5fchrj8tj3arltl2ktv615hla7f3veat.apps.googleusercontent.com",
           "client_type": 3
         }
