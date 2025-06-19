@@ -74,6 +74,7 @@ public class SignalRManager
     }
     public async void SendMessageAll(int senderUserId, string message)
     {
+        Debug.Log($"SendMessageAll : {senderUserId}, {message}");
         if (_connection.State == HubConnectionState.Connected)
         {
             await _connection.InvokeAsync("SendMessageAll", senderUserId, message);

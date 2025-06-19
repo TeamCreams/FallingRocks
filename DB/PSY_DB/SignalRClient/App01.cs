@@ -13,7 +13,7 @@ namespace SignalRClient
         public void Run()
         {
             var hubConnection = new HubConnectionBuilder()
-                .WithUrl($"https://localhost:54528/Chat")
+                .WithUrl($"https://dd37927.store/Chat")
                 .Build();
 
 
@@ -32,6 +32,8 @@ namespace SignalRClient
                     await hubConnection.InvokeAsync("ReceiveHearBeatFromClient");
 
                 });
+                await hubConnection.InvokeAsync("LoginUser", 20);
+                await hubConnection.InvokeAsync("SendMessageAll", 20, "AA");
 
             });
 

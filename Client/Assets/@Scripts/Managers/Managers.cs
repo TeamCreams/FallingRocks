@@ -20,7 +20,7 @@ public class Managers : MonoBehaviour
 	private ErrorManager _error = new ErrorManager();
 	private EvolutionManager _evolution = new EvolutionManager();
 	private ChattingManager _chatting = new ChattingManager();
-	private IAPManager _iap = new IAPManager();
+	private IAPManager _iap = null;// new IAPManager();
 	private LoginManager _login = new LoginManager();
 
     public static GameManager Game { get { return Instance?._game; } }
@@ -94,7 +94,7 @@ public class Managers : MonoBehaviour
 
 
 			//LATE INIT
-			Managers.IAP.LateInit();
+			//Managers.IAP.LateInit();
 
 
             Managers.Event.RemoveEvent(Define.EEventType.OnLogout, OnEvent_Logout);

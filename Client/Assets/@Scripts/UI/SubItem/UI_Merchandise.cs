@@ -1,4 +1,4 @@
-using Data;
+﻿using Data;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
@@ -46,7 +46,7 @@ public class UI_Merchandise : UI_Base
     private void GoToGooglePrice(PointerEventData eventData)
     {
         //Data에 맞는 값 호출 
-        Managers.IAP.Buy("CASH_1000");
+        //Managers.IAP.Buy("CASH_1000");
     }
 
     private void OnBeginDrag(PointerEventData eventData)
