@@ -1,18 +1,10 @@
-﻿using System.Text;
-using System;
-using UnityEngine;
-using Unity.VisualScripting;
-
-//얼리억세서
-// 보통 사람들이 알지도못할떄 1월 부터
-//  -> 코딩공부룰 게을리
-//  => 지금부터는 AI를 잘쓰는사람이 일잘하는 사람이다.
+﻿using UnityEngine;
 
 public static class SecurePlayerPrefs
 {
     private static string _iv = "dfasdfdasgdsafeqgfdasvasd";
     private static string _key => MacAddress.Get();
-    
+
     public static void SetString(string key, string value)
     {
         string newValue = Aes256Util.EncryptString(value, _key, _iv);
@@ -26,7 +18,7 @@ public static class SecurePlayerPrefs
         string newKey = Aes256Util.EncryptString(key, _key, _iv);
         var value = PlayerPrefs.GetString(newKey, defaultValue);
 
-        if(value == defaultValue)
+        if (value == defaultValue)
         {
             return defaultValue;
         }
@@ -96,7 +88,7 @@ public static class SecurePlayerPrefs
 
     public static void DeleteKey(string key)
     {
-        if(HasKey(key))
+        if (HasKey(key))
         {
             string newKey = Aes256Util.EncryptString(key, _key, _iv);
 

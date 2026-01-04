@@ -14,7 +14,7 @@ public class SignalRClient : MonoBehaviour
 
     private async Task ConnectToSignalR()
     {
-        string serverUrl = "https://dev-single-api.snapism.net:8082/Chat";
+        string serverUrl = "https://dev-api-fallingrocks.petiot.kr/Chat";
 
         // SignalR 연결 생성
         connection = new HubConnectionBuilder()

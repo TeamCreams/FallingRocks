@@ -1,18 +1,8 @@
-﻿using Data;
-using Firebase.Auth;
-using Google;
-using Gpm.WebView;
+﻿using Google;
 using System;
-using System.Collections;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
-using TMPro;
 using UnityEngine;
-using UnityEngine.XR;
-using static Define;
-using static Gpm.WebView.GpmWebViewCallback;
 
 public class GoogleLoginWebViewSystem
 {
@@ -71,7 +61,7 @@ public class GoogleLoginWebViewSystem
             Debug.Log("Welcome: " + task.Result.DisplayName + "!");
             Debug.Log("Welcome: " + task.Result.UserId + "!");
 
-            if(OnGetGoogleAccount == null)
+            if (OnGetGoogleAccount == null)
             {
                 Debug.Log("null");
             }

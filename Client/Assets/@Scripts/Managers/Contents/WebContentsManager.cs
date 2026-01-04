@@ -11,9 +11,9 @@ using WebApi.Models.Dto;
 using static Define;
 public class WebRoute
 {
-    private readonly static string BaseUrl = $"https://dd37927.store/";
+    private readonly static string BaseUrl = $"https://dev-api-fallingrocks.petiot.kr/";
     public readonly static Func<ReqDtoGetUserAccount, string> GetUserAccount = (dto) => $"{BaseUrl}User/GetUserAccount?UserName={dto.UserName}&Password={dto.Password}";
-                                                                            //https://dd37927.store/User/GetUserAccount?UserName=test3&Password=12345678
+                                                                            //https://dev-api-fallingrocks.petiot.kr/User/GetUserAccount?UserName=test3&Password=12345678
     public readonly static Func<ReqDtoGetUserAccountByGoogle, string> GetUserAccountByGoogle = (dto) => $"{BaseUrl}User/GetUserAccountByGoogle?GoogleAccount={dto.GoogleAccount}";
 
     public readonly static string CheckUserAccountUserNameExists = $"{BaseUrl}User/CheckUserAccountUserNameExists";

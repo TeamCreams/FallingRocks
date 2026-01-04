@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using UniRx;
 using UnityEngine;
-using System.Net.NetworkInformation;
 
 using static Define;
 
