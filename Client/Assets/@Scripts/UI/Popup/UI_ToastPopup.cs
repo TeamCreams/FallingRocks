@@ -44,12 +44,15 @@ public class UI_ToastPopup : UI_Popup
         BindImages(typeof(Images));
         BindTexts(typeof(Texts));
 
-        Vector3 originalScale = this.transform.localScale;
-        float scaleSpeed = 0.1f;
+        //Vector3 originalScale = this.transform.localScale;
+        //float scaleSpeed = 0.1f;
+        //_showSeq = DOTween.Sequence()
+        //    .Append(GetImage((int)Images.Background_Image).transform.DOScale(new Vector3(originalScale.x + 0.5f, originalScale.y + 0.5f, originalScale.z + 0.5f), scaleSpeed).SetEase(Ease.Linear))
+        //    .Append(GetImage((int)Images.Background_Image).transform.DOScale(originalScale, scaleSpeed).SetEase(Ease.Linear));
         _showSeq = DOTween.Sequence()
-            .Append(GetImage((int)Images.Background_Image).transform.DOScale(new Vector3(originalScale.x + 0.5f, originalScale.y + 0.5f, originalScale.z + 0.5f), scaleSpeed).SetEase(Ease.Linear))
-            .Append(GetImage((int)Images.Background_Image).transform.DOScale(originalScale, scaleSpeed).SetEase(Ease.Linear));
-
+            .Append(GetImage((int)Images.Background_Image).transform.DOPunchScale(new Vector3(0.15f, 0.15f, 0f), 0.2f, 5, 1f))
+            .SetAutoKill(false)
+            .Pause();
 
         return true;
     }
@@ -227,8 +230,9 @@ public class UI_ToastPopup : UI_Popup
     {
         _rootCanvas = this.GetComponent<Canvas>();
         _rootCanvas.enabled = true;
-
-        _showSeq.PlayForward();
+        _showSeq.Complete();
+        GetImage((int)Images.Background_Image).transform.localScale = Vector3.one;
+        _showSeq.Restart();
     }
 
     public void Hide()
