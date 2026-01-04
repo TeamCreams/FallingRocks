@@ -13,7 +13,7 @@ public class SignalRManager
     private HubConnection _connection;
     public Action<DateTime> OnChangedHeartBeat;
 
-    private string _serverUrl = "https://dd37927.store/Chat";
+    private string _serverUrl = "https://dev-api-fallingrocks.petiot.kr/Chat";
     // 메세지를 받는 것
     // 메세지를 특정인물한테 보내는것 (친구 기능)
     // 메세지를 전체한테 보내는 것
